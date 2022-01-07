@@ -1,1 +1,6 @@
 1223-GluonTS/
+1223-code-DL/lightning_logs/
+1223-code-DL/lr_find_temp_model_df76022a-1a0d-4686-88b8-112e89f84b87.ckpt
+1223-code-DL/optuna_test/
+1223-code-DL/lr_find*
+1223-code-DL/test*
