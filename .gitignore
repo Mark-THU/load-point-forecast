@@ -4,3 +4,5 @@
 1223-code-DL/optuna_test/
 1223-code-DL/lr_find*
 1223-code-DL/test*
+1223-code-DL/.ipynb_checkpoints/*
+1223-code-DL/model/*
